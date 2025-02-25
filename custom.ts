@@ -1,4 +1,4 @@
-//% weight=50 color=#02AFEC icon="\uf135"
+//% weight=50 color=#FFA500 icon="\uf11b"
 namespace cpe {
     /**
      * Enumeration of Motor Directions.
